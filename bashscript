@@ -1,1 +1,2 @@
+## setting up a GUI on Ubuntu24.04 VPS Server
 sudo apt update && sudo apt upgrade -y && sudo apt install tasksel && sudo apt install xorg && sudo apt install ubuntu-desktop lightdm && sudo apt install kubuntu-desktop lightdm && sudo apt install xfce4-desktop lightdm && sudo apt install xfce4-desktop lightdm && sudo apt install mate-desktop lightdm && sudo reboot
